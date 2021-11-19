@@ -1,6 +1,6 @@
 ## First public repo project
 
-<p>eattheblocks</p>
+<p>practicing with eattheblocks</p>
 
 <p>maybe showcase to portfolio on gitcoin</p>
 
@@ -10,3 +10,9 @@
 2. Be easier to reference back in my own brain.
 
 <p>Definitely need to review all of this too</p>
+
+<p>Use Next.js if can, make the styling design decent.</p>
+
+<p>user mindset</p>
+
+<p>Actually using UI may help to visualize better</p>
