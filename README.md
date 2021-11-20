@@ -16,3 +16,7 @@
 <p>user mindset</p>
 
 <p>Actually using UI may help to visualize better</p>
+
+### To install
+
+<p>npm i (code snippet markdown)</p>
