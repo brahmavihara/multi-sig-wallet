@@ -20,3 +20,14 @@
 ### To install
 
 <p>npm i (code snippet markdown)</p>
+
+#### Memo to self
+
+<p>Need more work here</p>
+
+#### Future improvements
+
+- Deploy to Mumbai testnet
+- Deploy to Polygon mainnet
+- or use BSC/xDai/etc
+- Other like functions and styling too if can.
